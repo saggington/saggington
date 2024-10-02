@@ -1,5 +1,5 @@
 ## Hi There👋
-Hello! My name is Evan Jonathan, I'm a beginner game programmer using Unity Engine. Currently an active student at Binus University, majoring in B26 Game Application and Technology. Being an avid gamer with a passion for gaming inspired me to pursue this particular field of study. Has a curiosity beyond just playing games and deeply interested in understanding the mechanics behind the creation and development of games.
+Hello! My name is Christopher Owen Anjaya. I am currently an active student at Binus University, majoring in B26 Game Application and Technology. I am currently learning about every aspect there is to learn about game development. I have dabbled in all Design, Art, and Programmer roles. I have learned every role at a surface level and is currently trying to dive deeper into programming in Unity.
 
 
 ## ✨Featured Projects
