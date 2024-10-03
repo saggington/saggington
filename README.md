@@ -6,7 +6,7 @@ Hello! My name is Christopher Owen Anjaya. I am currently an active student at B
 <table>
     <tr>
       <th width="500px" align="center"> <a href="https://github.com/Redacted-Studio/HorrorGame">Echoes Beneath</th>
-      <th width="500px" align="center"> <a href="https://github.com/817r/LegionGoJam">Night Walkers</th>
+      <th width="500px" align="center"> <a href="https://github.com/817r/LegionGoJam">NightWalkers</th>
     </tr>
   <tbody>
   <tr width="500px" align="center">
@@ -17,11 +17,11 @@ height="200px"></td>
   
   <tr width="500px">
     <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster. In this project i mainly worked as a programmer working as a level designer.</td>
-    <td>Mirai is a side-scroller</td>
+    <td>NightWalkers is a 2D action side-scroller platformer game that uses a "parry" mechanic as its main defensive feature. I worked as both designer and art in this project. I designed the enemies' attack mechanics and balanced them. I also made sure the levels are balanced and well-paced.</td>
   </tr>
   <tr>
-    <th width="500px"> <a href="https://github.com/Rubick07/GameToday">Drink Drink Drink</th>
-    <th width="500px"> <a href="https://github.com/Rubick07/Cyber-Hunter">Cyber Hunter</th>
+    <th width="500px"> <a href="">NeonTank</th>
+    <th width="500px"> <a href=""></th>
   </tr>
       
   <tr width="500px" align="center">
@@ -39,4 +39,7 @@ height="200px"></td>
 ## 🛠️Tools / Software
 The tools / software that I often use are:
 - Unity
-- Visual Studio Code# Owen
+- Visual Studio Code
+I have a decent understanding of these programs:
+-Aseprite
+-Lucidchart
