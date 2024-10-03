@@ -42,5 +42,5 @@ The tools / software that I often use are:
 - Visual Studio Code
 
 I have a decent understanding of these programs:
--Aseprite
--Lucidchart
+- Aseprite
+- Lucidchart
