@@ -25,8 +25,8 @@ height="200px"></td>
   </tr>
       
   <tr width="500px" align="center">
-    <td><img src="https://github.com/user-attachments/assets/792d3f88-e8b4-4a6d-b34e-a9a506fdbcf6" height="200px"></td>
-    <td><img src="https://github.com/user-attachments/assets/b36fe5c7-f078-4158-85ab-ee540efa6915" height="200px"></td>
+    <td><img src="" height="200px"></td>
+    <td><img src="" height="200px"></td>
   </tr>
     
   <tr width="500px">
@@ -40,6 +40,7 @@ height="200px"></td>
 The tools / software that I often use are:
 - Unity
 - Visual Studio Code
+
 I have a decent understanding of these programs:
 -Aseprite
 -Lucidchart
