@@ -10,12 +10,13 @@ Hello! My name is Christopher Owen Anjaya. I am currently an active student at B
     </tr>
   <tbody>
   <tr width="500px" align="center">
-  <td><img src https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c height="200px"></td>
+  <td><img src="https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c"
+height="200px"></td>
   <td><img src="https://github.com/user-attachments/assets/4073ec96-65ab-432a-aa24-05b4ad35e75d" height="200px"></td>
   </tr>
   
   <tr width="500px">
-    <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td>
+    <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster. In this project i mainly worked as a programmer working as a level designer.</td>
     <td>Mirai is a side-scroller</td>
   </tr>
   <tr>
