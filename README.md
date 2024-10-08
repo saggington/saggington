@@ -5,7 +5,7 @@ Hello! My name is Christopher Owen Anjaya. I am currently an active student at B
 ## ✨Featured Projects
 <table>
     <tr>
-      <th width="500px" align="center"> <a href="https://github.com/Redacted-Studio/HorrorGame">Echoes Beneath</th>
+      <th width="500px" align="center"> <a href="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4">Echoes Beneath</th>
       <th width="500px" align="center"> <a href="https://github.com/817r/LegionGoJam">NightWalkers</th>
     </tr>
   <tbody>
