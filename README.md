@@ -1,38 +1,36 @@
 ## Hi There👋
-Hello! My name is Christopher Owen Anjaya. I am currently an active student at Binus University, majoring in B26 Game Application and Technology. I am currently learning about every aspect there is to learn about game development. I have dabbled in all Design, Art, and Programmer roles. I have learned every role at a surface level and is currently trying to dive deeper into programming in Unity.
+Hello! My name is Christopher Owen Anjaya. I am currently an active student at Binus University, majoring in B26 Game Application and Technology. I am currently learning about every aspect there is to learn about game development. I have dabbled in all Design, Art, and Programmer roles. I have learned every role at a surface level and is currently trying to dive deeper into programming and unit testing in Unity.
 
 
 ## ✨Featured Projects
-<table>
+<table width="100%">
+  <thead>
     <tr>
-      <th width="500px" align="center"> <a href="https://github.com/Redacted-Studio/HorrorGame">Echoes Beneath</th>
-      <th width="500px" align="center"> <a href="https://github.com/817r/LegionGoJam">NightWalkers</th>
+      <th width="50%" align="center"><a>Echoes Beneath</a></th> <!--tittle-->
+       <th width="500px" align="center"> <a>NightWalkers</th> <!--tittle-->
     </tr>
+  </thead>
   <tbody>
-  <tr width="500px" align="center">
-  <td><img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4"
-height="200px"></td>
-  <td><img src="https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c" height="200px"></td>
-  </tr>
-  
-  <tr width="500px">
-    <td>Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster. In this project i mainly worked as a programmer working as a level designer.</td>
-    <td>NightWalkers is a 2D action side-scroller platformer game that uses a "parry" mechanic as its main defensive feature. I worked as both designer and art in this project. I designed the enemies' attack mechanics and balanced them. I also made sure the levels are balanced and well-paced.</td>
-  </tr>
-  <tr>
-    <th width="500px"> <a href="">NeonTank</th>
-    <th width="500px"> <a href=""></th>
-  </tr>
-      
-  <tr width="500px" align="center">
-    <td><img src="" height="200px"></td>
-    <td><img src="" height="200px"></td>
-  </tr>
-    
-  <tr width="500px">
-      <td>Drink Drink Drink is a game about creating a drinkable water company with trusty androids.</td>
-      <td>A turn-based game where the hunter job is fight the virus, clear minigames to unlock firewall, and go to finish node</td>
-  </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">Echoes Beneath is a 3D Horror Game where the objective is to escape from sewer, uncover mystery ,and avoid the monster.</td> <!--desc-->
+      <td valign="text-top">Mirai is a 2D Side scroller action game set in the future in which you must travel beyond the wastelands to find the city of tomorrow that can save humanity.</td> <!--desc-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Redacted-Studio/Echoes_Beneath">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/817r/LegionGoJam">Read More</a></td> <!--link2-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://xviig.itch.io/echoes-beneath">Itch Page</a></td> <!--link1-->
+       <!--link2-->
+    </tr>
   </tbody>
 </table>
 
