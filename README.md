@@ -45,10 +45,9 @@ Hello! My name is Christopher Owen Anjaya. I am currently an active student at B
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/d830552e-f161-4315-a04e-2ebf75e1f645" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
