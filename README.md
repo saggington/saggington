@@ -34,41 +34,11 @@ Hello! My name is Christopher Owen Anjaya. I am currently an active student at B
   </tbody>
 </table>
 
-<br>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a>Neon Tank</a></th> <!--tittle-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/d830552e-f161-4315-a04e-2ebf75e1f645" style="width:100%;height:auto;">
-      </td>
-      <td align="center">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">NeonTank is a PvP multiplayer game where 2 players fight eachother with tanks. Avoid enemy’s bullet, and collect buffs to make your tank stronger.</td> <!--desc-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/WhiteStyx/NeonTank">Read More</a></td> <!--link1-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://whitestyx.itch.io/neontank">Itch Page</a></td> <!--link1-->
-       <!--link2-->
-    </tr>
-  </tbody>
-</table>
 
          
 ## 🛠️Tools / Software
 The tools / software that I often use are:
 - Unity
 - Visual Studio Code
-
-I have a decent understanding of these programs:
-- Aseprite
-- Lucidchart
+- Github
+- C++
